@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Fintech_lab_v4</string>
+    <string name="app_name">Hello world</string>
+    <string name="btn_do_smth">Click Me!</string>
 </resources>
